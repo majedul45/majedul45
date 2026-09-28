@@ -1,4 +1,15 @@
 <div align="center">
+  <img
+    src="./github_banner.png"
+    alt="Majedul Haque - Full Stack Developer"
+    width="100%"
+  />
+</div>
+
+<br />
+
+<div align="center">
+
 
 # 👋 Hi, I'm Majedul Haque
 
