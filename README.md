@@ -123,8 +123,8 @@ I'm **Majedul Haque**, a Full Stack Web Developer who enjoys turning ideas into 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=majedul45&show_icons=true&hide_border=true&rank_icon=github&theme=default" alt="Majedul's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majedul45&layout=compact&hide_border=true&theme=default" alt="Most used languages" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=majedul45&show_icons=true&hide_border=true&rank_icon=github&theme=default" alt="Majedul's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majedul45&layout=compact&hide_border=true&theme=default" alt="Most used languages" /> -->
 
 <br /><br />
 
@@ -133,15 +133,6 @@ I'm **Majedul Haque**, a Full Stack Web Developer who enjoys turning ideas into 
 <br /><br />
 </div>
 
----
-
-
-
-### 🟩 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=majedul45&bg_color=ffffff&color=24292e&line=2ea44f&point=2ea44f&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</div>
 
 ---
 
